@@ -263,9 +263,12 @@ function renderHome(){
       ${last?`<div class="card-vol">Volume: ${volume.toLocaleString()}kg</div>`:''}
     </div>`;
   });
-  html+=`<div style="padding:0 16px 40px">
+  html+=`<div style="padding:0 16px 40px;display:flex;flex-direction:column;gap:8px">
     <button onclick="renderHistory();show('history')" style="width:100%;padding:13px;background:#0f0f0f;border:1px solid #1a1a1a;color:#444;border-radius:8px;font-size:13px;letter-spacing:2px;font-family:'Barlow Condensed',sans-serif">
       VIEW HISTORY — ${history.length} SESSIONS
+    </button>
+    <button onclick="showImport()" style="width:100%;padding:13px;background:#0f0f0f;border:1px solid #FF450044;color:#FF4500;border-radius:8px;font-size:13px;letter-spacing:2px;font-family:'Barlow Condensed',sans-serif">
+      ⬇ IMPORT SESSION FROM CLAUDE
     </button>
   </div></div>`;
   document.getElementById('home').innerHTML=html;
@@ -431,6 +434,60 @@ function exportData(){
 // ── TIMER ────────────────────────────────────────────────────
 function startTimer(){killTimer();timerEnd=Date.now()+restSecs*1000;const c=C();document.getElementById('timerBar').style.cssText=`display:block;background:${c};width:100%`;document.getElementById('timerBanner').style.cssText=`display:flex;background:${c}dd`;document.getElementById('timerMsg').textContent='Rest...';timerInterval=setInterval(()=>{const left=Math.max(0,Math.ceil((timerEnd-Date.now())/1000));document.getElementById('timerSecs').textContent=left+'s';document.getElementById('timerBar').style.width=(left/restSecs*100)+'%';if(left<=0)killTimer();},100);}
 function killTimer(){if(timerInterval){clearInterval(timerInterval);timerInterval=null;}document.getElementById('timerBar').style.display='none';document.getElementById('timerBanner').style.display='none';}
+
+// ── IMPORT ───────────────────────────────────────────────────
+function showImport(){
+  document.getElementById('history').innerHTML=`
+    <div class="sticky hist-hdr">
+      <div class="bc hist-title">IMPORT</div>
+      <button class="btn-hist-home" onclick="renderHome();show('home')">← HOME</button>
+    </div>
+    <div style="padding:16px">
+      <div style="font-size:13px;color:#555;margin-bottom:16px;line-height:1.6">
+        After a session, Claude will give you a JSON block. Paste it below and tap Import.
+      </div>
+      <div style="font-size:10px;color:#444;letter-spacing:2px;margin-bottom:8px">PASTE SESSION JSON</div>
+      <textarea id="importInput" rows="8" style="width:100%;background:#111;border:1px solid #333;border-radius:8px;color:#fff;font-family:monospace;font-size:12px;outline:none;padding:12px;resize:none" placeholder='{"id":...,"day":1,"dayName":"...",...}'></textarea>
+      <div id="importMsg" style="font-size:12px;padding:8px;border-radius:6px;margin-top:8px;display:none"></div>
+      <button onclick="doImport()" style="width:100%;margin-top:12px;padding:14px;border:none;background:#FF4500;color:#000;border-radius:8px;font-family:'Barlow Condensed',sans-serif;font-size:17px;font-weight:900;letter-spacing:2px">IMPORT & SYNC</button>
+    </div>`;
+  show('history');
+}
+
+async function doImport(){
+  const raw=document.getElementById('importInput').value.trim();
+  const msg=document.getElementById('importMsg');
+  msg.style.display='block';
+  
+  let session;
+  try{
+    session=JSON.parse(raw);
+    if(!session.id||!session.day||!session.exercises) throw new Error('Invalid format');
+  }catch(e){
+    msg.style.background='#2a0a0a';msg.style.color='#ff4444';msg.style.border='1px solid #ff444433';
+    msg.textContent='Invalid JSON — copy the exact block Claude gives you';
+    return;
+  }
+  
+  // Check not duplicate
+  if(history.find(s=>s.id===session.id)){
+    msg.style.background='#1a1a0a';msg.style.color='#FF8800';msg.style.border='1px solid #FF880033';
+    msg.textContent='Session already imported';
+    return;
+  }
+  
+  msg.style.background='#0a1a0a';msg.style.color='#FF8800';msg.style.border='1px solid #FF880033';
+  msg.textContent='Syncing to GitHub...';
+  
+  history.push(session);
+  history.sort((a,b)=>new Date(a.date)-new Date(b.date));
+  await ghWrite();
+  
+  msg.style.background='#0a2a0a';msg.style.color='#00CC44';msg.style.border='1px solid #00CC4433';
+  msg.textContent=`✓ Session imported and synced! ${history.length} total sessions.`;
+  
+  setTimeout(()=>{renderHome();show('home');},1500);
+}
 
 // ── INIT ─────────────────────────────────────────────────────
 async function initApp(){
