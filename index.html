@@ -150,8 +150,7 @@ async function ghRead(){
     if(!r.ok) return false;
     const d=await r.json();
     ghSha=d.sha;
-    const sessions=JSON.parse(atob(d.content.replace(/
-/g,'')));
+    const sessions=JSON.parse(atob(d.content.split('\n').join('')));
     history=sessions.sort((a,b)=>new Date(a.date)-new Date(b.date));
     return true;
   }catch(e){return false;}
@@ -231,7 +230,7 @@ function lastSession(day){const s=history.filter(x=>x.day===day);return s.length
 function lastSets(day,idx){const l=lastSession(day);return l?.exercises[idx]?.sets||[];}
 function lastWeight(day,idx){const s=lastSets(day,idx);return s.length?s[s.length-1].w:'';}
 function vol(session){return session.exercises.reduce((t,ex)=>(ex.sets||[]).reduce((s,set)=>s+set.w*set.r,t),0);}
-function fmt(n){return n%1===0?String(n):n.toFixed(2).replace(/\.?0+$/,'');}
+function fmt(n){if(n%1===0)return String(n);let s=n.toFixed(2);while(s[s.length-1]==='0')s=s.slice(0,-1);if(s[s.length-1]==='.')s=s.slice(0,-1);return s;}
 function show(id){document.querySelectorAll('.page').forEach(p=>p.classList.remove('on'));document.getElementById(id).classList.add('on');window.scrollTo(0,0);}
 
 // ── HOME ─────────────────────────────────────────────────────
