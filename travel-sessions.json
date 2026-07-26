@@ -1,0 +1,150 @@
+[
+  {
+    "id": 1774483200000,
+    "day": 1,
+    "dayName": "Back / Triceps / Rear Delts",
+    "date": "2026-07-26T19:00:00.000Z",
+    "location": "Hotel gym, China",
+    "exercises": [
+      {
+        "name": "Low Row (Technogym)",
+        "sets": [
+          {
+            "w": 70,
+            "r": 8
+          },
+          {
+            "w": 70,
+            "r": 8
+          },
+          {
+            "w": 70,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Lat Pulldown (Wide Grip)",
+        "sets": [
+          {
+            "w": 50,
+            "r": 8
+          },
+          {
+            "w": 50,
+            "r": 8
+          },
+          {
+            "w": 50,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Lat Pulldown (V-Bar)",
+        "sets": [
+          {
+            "w": 60,
+            "r": 8
+          },
+          {
+            "w": 60,
+            "r": 8
+          },
+          {
+            "w": 60,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Single Arm Row (pulley)",
+        "sets": [
+          {
+            "w": 21.75,
+            "r": 8
+          },
+          {
+            "w": 21.75,
+            "r": 8
+          },
+          {
+            "w": 21.75,
+            "r": 8
+          }
+        ],
+        "note": "each arm"
+      },
+      {
+        "name": "Cable Face Pull",
+        "sets": [
+          {
+            "w": 36.75,
+            "r": 8
+          },
+          {
+            "w": 36.75,
+            "r": 8
+          },
+          {
+            "w": 36.75,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Cable Reverse Fly",
+        "sets": [
+          {
+            "w": 3.5,
+            "r": 8
+          },
+          {
+            "w": 2.5,
+            "r": 12
+          },
+          {
+            "w": 2.5,
+            "r": 12
+          }
+        ],
+        "note": "sets 2-3 to failure"
+      },
+      {
+        "name": "Rope Pushdown",
+        "sets": [
+          {
+            "w": 18.75,
+            "r": 8
+          },
+          {
+            "w": 18.75,
+            "r": 8
+          },
+          {
+            "w": 18.75,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Overhead Rope Extension",
+        "sets": [
+          {
+            "w": 16.75,
+            "r": 8
+          },
+          {
+            "w": 16.75,
+            "r": 8
+          },
+          {
+            "w": 16.75,
+            "r": 8
+          }
+        ],
+        "note": "full ROM"
+      }
+    ]
+  }
+]
