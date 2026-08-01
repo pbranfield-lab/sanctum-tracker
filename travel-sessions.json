@@ -285,5 +285,174 @@
         ]
       }
     ]
+  },
+  {
+    "id": 1785945600000,
+    "day": 0,
+    "dayName": "Full Body",
+    "date": "2026-08-01T14:00:00.000Z",
+    "location": "Hotel gym, Xi'an",
+    "note": "Precor kit. Training every 3-4 days while travelling. Groin issue - avoided heavy/wide-stance leg work.",
+    "exercises": [
+      {
+        "name": "Lat Pulldown",
+        "sets": [
+          {
+            "w": 52,
+            "r": 8
+          },
+          {
+            "w": 52,
+            "r": 8
+          },
+          {
+            "w": 52,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Chest Press",
+        "sets": [
+          {
+            "w": 59,
+            "r": 8
+          },
+          {
+            "w": 59,
+            "r": 8
+          },
+          {
+            "w": 59,
+            "r": 8
+          },
+          {
+            "w": 59,
+            "r": 8
+          }
+        ],
+        "note": "foot-assist lever required to reach start position"
+      },
+      {
+        "name": "Smith Machine RDL",
+        "sets": [
+          {
+            "w": 40,
+            "r": 12
+          },
+          {
+            "w": 40,
+            "r": 12
+          },
+          {
+            "w": 45,
+            "r": 12
+          },
+          {
+            "w": 45,
+            "r": 12
+          }
+        ],
+        "note": "no groin pain"
+      },
+      {
+        "name": "Shoulder Press",
+        "sets": [
+          {
+            "w": 39,
+            "r": 12
+          },
+          {
+            "w": 39,
+            "r": 12
+          },
+          {
+            "w": 39,
+            "r": 12
+          },
+          {
+            "w": 39,
+            "r": 12
+          }
+        ]
+      },
+      {
+        "name": "Seated Cable Row",
+        "sets": [
+          {
+            "w": 46,
+            "r": 12
+          },
+          {
+            "w": 46,
+            "r": 12
+          },
+          {
+            "w": 46,
+            "r": 12
+          },
+          {
+            "w": 46,
+            "r": 12
+          }
+        ],
+        "note": "46kg each side"
+      },
+      {
+        "name": "Leg Extension",
+        "sets": [
+          {
+            "w": 73,
+            "r": 12
+          },
+          {
+            "w": 93,
+            "r": 8
+          },
+          {
+            "w": 93,
+            "r": 8
+          },
+          {
+            "w": 93,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Cable Curl",
+        "sets": [
+          {
+            "w": 32,
+            "r": 12
+          },
+          {
+            "w": 32,
+            "r": 12
+          },
+          {
+            "w": 32,
+            "r": 12
+          }
+        ]
+      },
+      {
+        "name": "Overhead Rope Extension",
+        "sets": [
+          {
+            "w": 22.5,
+            "r": 8
+          },
+          {
+            "w": 22.5,
+            "r": 8
+          },
+          {
+            "w": 22.5,
+            "r": 8
+          }
+        ]
+      }
+    ]
   }
 ]
