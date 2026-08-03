@@ -454,5 +454,168 @@
         ]
       }
     ]
+  },
+  {
+    "id": 1786118400000,
+    "day": 0,
+    "dayName": "Full Body",
+    "date": "2026-08-03T14:00:00.000Z",
+    "location": "Hotel gym, Xi'an",
+    "note": "Precor kit. 48h after previous session. Cable fly skipped - machine occupied.",
+    "exercises": [
+      {
+        "name": "Smith Machine Bench Press",
+        "sets": [
+          {
+            "w": 30,
+            "r": 12
+          },
+          {
+            "w": 40,
+            "r": 8
+          },
+          {
+            "w": 45,
+            "r": 8
+          },
+          {
+            "w": 40,
+            "r": 8
+          }
+        ],
+        "note": "45 partial ROM - could not reach chest. 40 = working weight, full ROM"
+      },
+      {
+        "name": "Single Arm Row (pulley)",
+        "sets": [
+          {
+            "w": 23,
+            "r": 12
+          },
+          {
+            "w": 27,
+            "r": 12
+          },
+          {
+            "w": 27,
+            "r": 12
+          },
+          {
+            "w": 27,
+            "r": 12
+          }
+        ],
+        "note": "each arm"
+      },
+      {
+        "name": "Incline DB Press",
+        "sets": [
+          {
+            "w": 14,
+            "r": 12
+          },
+          {
+            "w": 16,
+            "r": 8
+          },
+          {
+            "w": 16,
+            "r": 8
+          },
+          {
+            "w": 16,
+            "r": 8
+          }
+        ],
+        "note": "16kg clean ROM - failed at this weight 27 Jul"
+      },
+      {
+        "name": "Smith Machine Shrug",
+        "sets": [
+          {
+            "w": 60,
+            "r": 12
+          },
+          {
+            "w": 70,
+            "r": 12
+          },
+          {
+            "w": 70,
+            "r": 12
+          }
+        ]
+      },
+      {
+        "name": "Leg Curl",
+        "sets": [
+          {
+            "w": 73,
+            "r": 8
+          },
+          {
+            "w": 73,
+            "r": 8
+          },
+          {
+            "w": 73,
+            "r": 8
+          }
+        ],
+        "note": "first hamstring baseline"
+      },
+      {
+        "name": "Hammer Curl",
+        "sets": [
+          {
+            "w": 12.5,
+            "r": 8
+          },
+          {
+            "w": 12.5,
+            "r": 8
+          },
+          {
+            "w": 12.5,
+            "r": 8
+          }
+        ],
+        "note": "to failure"
+      },
+      {
+        "name": "Rope Pushdown",
+        "sets": [
+          {
+            "w": 32,
+            "r": 8
+          },
+          {
+            "w": 32,
+            "r": 8
+          },
+          {
+            "w": 32,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Abdominal Machine",
+        "sets": [
+          {
+            "w": 45,
+            "r": 8
+          },
+          {
+            "w": 45,
+            "r": 8
+          },
+          {
+            "w": 45,
+            "r": 8
+          }
+        ]
+      }
+    ]
   }
 ]
