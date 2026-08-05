@@ -617,5 +617,136 @@
         ]
       }
     ]
+  },
+  {
+    "id": 1786291200000,
+    "day": 2,
+    "dayName": "Chest / Biceps / Shoulders",
+    "date": "2026-08-05T11:00:00.000Z",
+    "location": "Fairmont Beijing (Willow Stream) - Technogym",
+    "note": "Right mid-back soreness (rhomboid area, medial to right scapula) onset during session - hammer curls skipped. Back day deferred 48h.",
+    "exercises": [
+      {
+        "name": "Chest Press (Technogym)",
+        "sets": [
+          {
+            "w": 55,
+            "r": 8
+          },
+          {
+            "w": 60,
+            "r": 8
+          },
+          {
+            "w": 60,
+            "r": 8
+          }
+        ]
+      },
+      {
+        "name": "Cable Fly (low-to-high)",
+        "sets": [
+          {
+            "w": 5,
+            "r": 8
+          },
+          {
+            "w": 5,
+            "r": 8
+          },
+          {
+            "w": 5,
+            "r": 8
+          }
+        ],
+        "note": "5kg each side"
+      },
+      {
+        "name": "Incline DB Press",
+        "sets": [
+          {
+            "w": 18,
+            "r": 5
+          },
+          {
+            "w": 16,
+            "r": 8
+          },
+          {
+            "w": 16,
+            "r": 8
+          }
+        ],
+        "note": "18kg failed at 5; 16kg to failure at 8"
+      },
+      {
+        "name": "Shoulder Press (Technogym)",
+        "sets": [
+          {
+            "w": 40,
+            "r": 8
+          },
+          {
+            "w": 40,
+            "r": 8
+          },
+          {
+            "w": 40,
+            "r": 8
+          }
+        ],
+        "note": "PB - up from 32 at Sanctum"
+      },
+      {
+        "name": "DB Lateral Raise",
+        "sets": [
+          {
+            "w": 6,
+            "r": 8
+          },
+          {
+            "w": 6,
+            "r": 8
+          },
+          {
+            "w": 6,
+            "r": 8
+          }
+        ],
+        "note": "increase to 8kg next session"
+      },
+      {
+        "name": "EZ Bar Curl",
+        "sets": [
+          {
+            "w": 19.5,
+            "r": 10
+          },
+          {
+            "w": 19.5,
+            "r": 10
+          },
+          {
+            "w": 19.5,
+            "r": 10
+          }
+        ],
+        "note": "7kg bar + 6.25/side; heavier first attempt failed at 6 with poor ROM"
+      },
+      {
+        "name": "DB Incline Curl",
+        "sets": [
+          {
+            "w": 12,
+            "r": 4
+          },
+          {
+            "w": 10,
+            "r": 4
+          }
+        ],
+        "note": "biceps pre-fatigued by EZ curls"
+      }
+    ]
   }
 ]
