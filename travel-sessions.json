@@ -846,5 +846,122 @@
         ]
       }
     ]
+  },
+  {
+    "id": 1786464000000,
+    "day": 0,
+    "dayName": "Shoulders / Triceps / Abs",
+    "date": "2026-08-07T16:00:00.000Z",
+    "location": "Fairmont Beijing (Willow Stream) - Technogym",
+    "note": "Back day deferred again - right mid-back still mildly symptomatic. No pulling movements. Right shoulder mildly sore during pressing. NOTE: Xi'an (Precor) stack readings likely in POUNDS not kg - cross-gym comparisons unreliable.",
+    "exercises": [
+      {
+        "name": "Shoulder Press (Technogym)",
+        "sets": [
+          {
+            "w": 40,
+            "r": 12
+          },
+          {
+            "w": 40,
+            "r": 12
+          },
+          {
+            "w": 40,
+            "r": 12
+          }
+        ],
+        "note": "up from 8 reps on 5 Aug at same weight"
+      },
+      {
+        "name": "DB Lateral Raise",
+        "sets": [
+          {
+            "w": 6,
+            "r": 12
+          },
+          {
+            "w": 6,
+            "r": 12
+          },
+          {
+            "w": 6,
+            "r": 12
+          }
+        ],
+        "note": "to failure; held at 6kg due to shoulder"
+      },
+      {
+        "name": "Rope Pushdown",
+        "sets": [
+          {
+            "w": 15,
+            "r": 8
+          },
+          {
+            "w": 15,
+            "r": 8
+          },
+          {
+            "w": 15,
+            "r": 8
+          }
+        ],
+        "note": "to failure"
+      },
+      {
+        "name": "Overhead Rope Extension",
+        "sets": [
+          {
+            "w": 12.5,
+            "r": 8
+          },
+          {
+            "w": 12.5,
+            "r": 8
+          },
+          {
+            "w": 12.5,
+            "r": 8
+          }
+        ],
+        "note": "to failure; different pulley ratio to other stations"
+      },
+      {
+        "name": "Kinesis Arm Extension",
+        "sets": [
+          {
+            "w": 6,
+            "r": 12
+          },
+          {
+            "w": 6,
+            "r": 12
+          },
+          {
+            "w": 6,
+            "r": 12
+          }
+        ],
+        "note": "6kg each side"
+      },
+      {
+        "name": "Abdominal Crunch",
+        "sets": [
+          {
+            "w": 25,
+            "r": 8
+          },
+          {
+            "w": 25,
+            "r": 8
+          },
+          {
+            "w": 25,
+            "r": 8
+          }
+        ]
+      }
+    ]
   }
 ]
