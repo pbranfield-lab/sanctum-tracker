@@ -1,0 +1,63 @@
+{
+  "name": "Upper/Lower 4-5 Day",
+  "startDate": "2026-08-14",
+  "goal": "Strength + muscle growth + fat loss",
+  "progressionRule": "Double progression: work 8->12 reps at a weight, then add ~5% (or one plate) and drop back to 8. Stop sets 1-2 reps from failure. Log actual reps.",
+  "weekStructure": "UA / LA / rest / UB / LB / optional 5th day (repeat weakest upper, or cardio)",
+  "cardio": "15-20 min incline walk after both lower days and one upper day",
+  "days": [
+    {
+      "day": 1,
+      "dayName": "Upper A (Horizontal)",
+      "exercises": [
+        { "name": "Incline Chest Press", "startWeight": 35, "sets": 4, "repRange": "12", "notes": "Keep 12x4 form/ROM protocol for now" },
+        { "name": "Gym80 55 Degree Row", "startWeight": 40, "sets": 3, "repRange": "8-12" },
+        { "name": "Hoist Pec Fly", "startWeight": 79, "sets": 3, "repRange": "8-12" },
+        { "name": "Lat Pulldown", "startWeight": 79, "sets": 3, "repRange": "8-12", "notes": "Build to 12 before retrying 88" },
+        { "name": "Gym80 Lateral Raise", "startWeight": 40, "sets": 3, "repRange": "8-12" },
+        { "name": "V-Bar Pushdown", "startWeight": 27.5, "sets": 3, "repRange": "8-12", "superset": "Gymleco Biceps Curl" },
+        { "name": "Gymleco Biceps Curl", "startWeight": 25, "sets": 3, "repRange": "8-12", "superset": "V-Bar Pushdown" }
+      ]
+    },
+    {
+      "day": 2,
+      "dayName": "Lower A (Quad)",
+      "exercises": [
+        { "name": "Leg Press", "startWeight": 110, "sets": 3, "repRange": "8-12" },
+        { "name": "Single-Leg Press", "startWeight": 10, "sets": 3, "repRange": "8-12", "notes": "Progress now - flat since May. Move off 12x4 once form solid" },
+        { "name": "Hoist Leg Curl", "startWeight": 113, "sets": 3, "repRange": "8-12" },
+        { "name": "Gym80 Booty Booster", "startWeight": 105, "sets": 3, "repRange": "8-12" },
+        { "name": "Calf Raise", "startWeight": 0, "sets": 3, "repRange": "15-20", "notes": "Bodyweight to start; add load when 20 easy" }
+      ],
+      "finisher": "15-20 min incline walk"
+    },
+    {
+      "day": 3,
+      "dayName": "Upper B (Vertical/Shoulder)",
+      "exercises": [
+        { "name": "Nautilus Shoulder Press", "startWeight": 32, "sets": 3, "repRange": "8-12", "notes": "Monitor right shoulder" },
+        { "name": "Machine Dip", "startWeight": 90, "sets": 3, "repRange": "8-12" },
+        { "name": "Gym80 Low Row", "startWeight": 40, "sets": 3, "repRange": "8-12" },
+        { "name": "Cable Face Pull", "startWeight": 35, "sets": 3, "repRange": "8-12" },
+        { "name": "Reverse Pec Deck", "startWeight": 25, "sets": 3, "repRange": "8-12", "notes": "Regressed - rebuild slowly" },
+        { "name": "Nautilus Biceps Curl", "startWeight": 41, "sets": 3, "repRange": "8-12", "superset": "Overhead Cable Extension" },
+        { "name": "Overhead Cable Extension", "startWeight": 22.5, "sets": 3, "repRange": "8-12", "superset": "Nautilus Biceps Curl" }
+      ]
+    },
+    {
+      "day": 4,
+      "dayName": "Lower B (Hinge/Posterior)",
+      "exercises": [
+        { "name": "Romanian Deadlift", "startWeight": 45, "sets": 3, "repRange": "8-12", "notes": "Reset from 50kg stall. 3-sec eccentric. Watch mid-back strain" },
+        { "name": "Back Extension", "startWeight": 0, "sets": 3, "repRange": "8-12", "notes": "Add plate to chest once BW x12 easy" },
+        { "name": "Hoist Leg Curl", "startWeight": 95, "sets": 3, "repRange": "10-12", "notes": "2nd weekly exposure, lighter" },
+        { "name": "Leg Press", "startWeight": 90, "sets": 3, "repRange": "10-12", "notes": "Lighter variation day" },
+        { "name": "Abs (machine or crunch)", "startWeight": 25, "sets": 3, "repRange": "8-12" }
+      ],
+      "finisher": "15-20 min incline walk"
+    }
+  ],
+  "nutrition": {
+    "protein": "1.6-2.0 g/kg bodyweight daily - priority given appetite suppression"
+  }
+}
