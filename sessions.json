@@ -6344,5 +6344,109 @@
     "notes": "Close to failure; hold 70 and rep-build"
    }
   ]
+ },
+ {
+  "id": 1755205200000,
+  "day": 2,
+  "dayName": "Lower A (Quad)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-14T20:00:00.000Z",
+  "exercises": [
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 80,
+      "r": 12
+     },
+     {
+      "w": 100,
+      "r": 12
+     },
+     {
+      "w": 100,
+      "r": 12
+     }
+    ],
+    "notes": "NEW plate-loaded 45deg machine - not comparable to old leg press. Last set to failure. Next: 110-120 x8"
+   },
+   {
+    "name": "Single-Leg Press 45 (plate)",
+    "sets": [
+     {
+      "w": 20,
+      "r": 8
+     },
+     {
+      "w": 20,
+      "r": 8
+     },
+     {
+      "w": 20,
+      "r": 8
+     }
+    ],
+    "notes": "Per leg, new machine. Left weaker - left leads, right matches"
+   },
+   {
+    "name": "Hoist Leg Curl",
+    "sets": [
+     {
+      "w": 95,
+      "r": 12
+     },
+     {
+      "w": 95,
+      "r": 12
+     },
+     {
+      "w": 95,
+      "r": 12
+     }
+    ],
+    "notes": "Full ROM, failed at 12. Next: 100-105"
+   },
+   {
+    "name": "Gym80 Booty Booster",
+    "sets": [
+     {
+      "w": 80,
+      "r": 12
+     },
+     {
+      "w": 80,
+      "r": 12
+     },
+     {
+      "w": 80,
+      "r": 12
+     }
+    ],
+    "notes": "Reduced from 105 to test groin - fine. Next: 85-90"
+   },
+   {
+    "name": "Calf Raise (bodyweight)",
+    "sets": [
+     {
+      "w": 0,
+      "r": 12
+     },
+     {
+      "w": 0,
+      "r": 12
+     },
+     {
+      "w": 0,
+      "r": 15
+     }
+    ],
+    "notes": "Next: hold 10-15kg DB"
+   }
+  ],
+  "cardio": {
+   "type": "Treadmill incline walk",
+   "minutes": 20,
+   "kcal": 125
+  }
  }
 ]
