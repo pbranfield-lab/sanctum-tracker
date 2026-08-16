@@ -6448,5 +6448,140 @@
    "minutes": 20,
    "kcal": 125
   }
+ },
+ {
+  "id": 1755352800000,
+  "day": 3,
+  "dayName": "Upper B (Vertical/Shoulder)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-16T14:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Nautilus Shoulder Press",
+    "sets": [
+     {
+      "w": 32,
+      "r": 12
+     },
+     {
+      "w": 32,
+      "r": 12
+     },
+     {
+      "w": 32,
+      "r": 12
+     }
+    ],
+    "notes": "All 12s, no shoulder complaints. Next: 34-36"
+   },
+   {
+    "name": "Machine Dip (ROC-IT plate-loaded)",
+    "sets": [
+     {
+      "w": 90,
+      "r": 8
+     },
+     {
+      "w": 60,
+      "r": 12
+     },
+     {
+      "w": 60,
+      "r": 12
+     }
+    ],
+    "notes": "90 = poor ROM + shoulder strain, abandoned. Narrow grip. 60 = working weight on this machine"
+   },
+   {
+    "name": "Gym80 Low Row",
+    "sets": [
+     {
+      "w": 40,
+      "r": 12
+     },
+     {
+      "w": 40,
+      "r": 10
+     },
+     {
+      "w": 40,
+      "r": 12
+     }
+    ],
+    "notes": "Close to fail. Hold 40 until 3x12"
+   },
+   {
+    "name": "Cable Face Pull",
+    "sets": [
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     }
+    ],
+    "notes": "35 too heavy for full ROM. 25 = working weight, pull to eyes"
+   },
+   {
+    "name": "Nautilus Biceps Curl",
+    "sets": [
+     {
+      "w": 41,
+      "r": 6
+     },
+     {
+      "w": 36,
+      "r": 8
+     },
+     {
+      "w": 36,
+      "r": 8
+     }
+    ],
+    "notes": "41 failed at 6. 36 working weight, build to 12"
+   },
+   {
+    "name": "Overhead Cable Extension",
+    "sets": [
+     {
+      "w": 15,
+      "r": 8
+     },
+     {
+      "w": 15,
+      "r": 8
+     },
+     {
+      "w": 15,
+      "r": 8
+     }
+    ],
+    "notes": "22.5 too heavy with rope - 15 gives much better ROM"
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     }
+    ],
+    "notes": "Next: start at 30"
+   }
+  ]
  }
 ]
