@@ -6583,5 +6583,109 @@
     "notes": "Next: start at 30"
    }
   ]
+ },
+ {
+  "id": 1755543600000,
+  "day": 4,
+  "dayName": "Lower B (Hinge/Posterior)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-18T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Romanian Deadlift",
+    "sets": [
+     {
+      "w": 50,
+      "r": 12
+     },
+     {
+      "w": 50,
+      "r": 12
+     },
+     {
+      "w": 50,
+      "r": 10
+     }
+    ],
+    "notes": "Up from 45 reset. Full ROM. Bar control at bottom now the limiter, not hamstrings - consider straps"
+   },
+   {
+    "name": "Back Extension",
+    "sets": [
+     {
+      "w": 0,
+      "r": 12
+     },
+     {
+      "w": 0,
+      "r": 12
+     },
+     {
+      "w": 0,
+      "r": 12
+     }
+    ],
+    "notes": "Clean 3x12 bodyweight. Add plate to chest next time"
+   },
+   {
+    "name": "Leg Curl (different machine, not Hoist)",
+    "sets": [
+     {
+      "w": 77,
+      "r": 10
+     },
+     {
+      "w": 77,
+      "r": 8
+     },
+     {
+      "w": 77,
+      "r": 8
+     }
+    ],
+    "notes": "2nd leg curl exposure this week (after Sat Hoist 95x12x3) - some fatigue expected. Different machine, not directly comparable to Hoist baseline"
+   },
+   {
+    "name": "Swing Squat (new machine, sub for leg press)",
+    "sets": [
+     {
+      "w": 60,
+      "r": 8
+     },
+     {
+      "w": 60,
+      "r": 8
+     },
+     {
+      "w": 60,
+      "r": 8
+     }
+    ],
+    "notes": "New quad-dominant sub for 45deg leg press on lighter day. Good ROM"
+   },
+   {
+    "name": "Abs",
+    "sets": [
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     }
+    ]
+   }
+  ],
+  "cardio": {
+   "type": "Treadmill incline walk",
+   "minutes": 4.3,
+   "kcal": 74,
+   "notes": "Shorter than usual 15-20min target"
+  }
  }
 ]
