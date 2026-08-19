@@ -6687,5 +6687,127 @@
    "kcal": 74,
    "notes": "Shorter than usual 15-20min target"
   }
+ },
+ {
+  "id": 1755716400000,
+  "day": 1,
+  "dayName": "Upper A (Horizontal)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-20T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Incline Chest Press",
+    "sets": [
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 35,
+      "r": 12
+     }
+    ],
+    "notes": "Full recovery to pre-China 35kg, all 12s. Next: 37.5-40"
+   },
+   {
+    "name": "Gym80 55 Degree Row",
+    "sets": [
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     }
+    ],
+    "notes": "Near failure all sets. Hold 40, push toward 12"
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "w": 70,
+      "r": 8
+     },
+     {
+      "w": 70,
+      "r": 10
+     },
+     {
+      "w": 70,
+      "r": 12
+     }
+    ],
+    "notes": "Full ROM. One more session at 70 for 3x12, then retry 79"
+   },
+   {
+    "name": "Gym80 Lateral Raise",
+    "sets": [
+     {
+      "w": 35,
+      "r": 10
+     },
+     {
+      "w": 35,
+      "r": 10
+     },
+     {
+      "w": 35,
+      "r": 12
+     }
+    ],
+    "notes": "Up from 30. Next: all 3x12 before increasing"
+   },
+   {
+    "name": "V-Bar Pushdown",
+    "sets": [
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     }
+    ],
+    "notes": "All clean 12s. Next: 27.5-30"
+   },
+   {
+    "name": "Gymleco Biceps Curl",
+    "sets": [
+     {
+      "w": 25,
+      "r": 8
+     },
+     {
+      "w": 22.5,
+      "r": 8
+     },
+     {
+      "w": 22.5,
+      "r": 8
+     }
+    ],
+    "notes": "Failed at 8 each set. Hold weight, build reps"
+   }
+  ],
+  "notes": "Pec Fly skipped - left gym before final exercise. Pick up next Upper A."
  }
 ]
