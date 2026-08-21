@@ -6809,5 +6809,109 @@
    }
   ],
   "notes": "Pec Fly skipped - left gym before final exercise. Pick up next Upper A."
+ },
+ {
+  "id": 1755802200000,
+  "day": 2,
+  "dayName": "Lower A (Quad)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-21T20:00:00.000Z",
+  "exercises": [
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 110,
+      "r": 8
+     },
+     {
+      "w": 110,
+      "r": 12
+     },
+     {
+      "w": 110,
+      "r": 12
+     }
+    ],
+    "notes": "First set warm-in. Next: push to 120-130"
+   },
+   {
+    "name": "Single-Leg Press 45 (plate)",
+    "sets": [
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     }
+    ],
+    "notes": "Per leg, up from 20kg. Right confirmed stronger/dominant, left leads pace. Balance improving"
+   },
+   {
+    "name": "Gym80 Leg Curl (different machine, not Hoist)",
+    "sets": [
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     }
+    ],
+    "notes": "50 = poor ROM, dropped to 40 = good ROM, to failure. 40 = working weight on this machine"
+   },
+   {
+    "name": "Gym80 Booty Booster",
+    "sets": [
+     {
+      "w": 85,
+      "r": 12
+     },
+     {
+      "w": 85,
+      "r": 12
+     },
+     {
+      "w": 85,
+      "r": 12
+     }
+    ],
+    "notes": "All clean 12s. Next: 90-95"
+   },
+   {
+    "name": "Standing Calf Raise (RPL-5405 plate-loaded)",
+    "sets": [
+     {
+      "w": 20,
+      "r": 15
+     },
+     {
+      "w": 40,
+      "r": 15
+     },
+     {
+      "w": 40,
+      "r": 15
+     }
+    ],
+    "notes": "New plate-loaded machine, upgrade from bodyweight. Next: start at 40"
+   }
+  ],
+  "cardio": {
+   "type": "Treadmill incline walk",
+   "minutes": 4.3,
+   "kcal": 90
+  }
  }
 ]
