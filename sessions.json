@@ -6913,5 +6913,141 @@
    "minutes": 4.3,
    "kcal": 90
   }
+ },
+ {
+  "id": 1755975000000,
+  "day": 3,
+  "dayName": "Upper B (Vertical/Shoulder)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-23T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Nautilus Shoulder Press",
+    "sets": [
+     {
+      "w": 32,
+      "r": 12
+     },
+     {
+      "w": 32,
+      "r": 12
+     },
+     {
+      "w": 32,
+      "r": 12
+     }
+    ],
+    "notes": "Held at 32, 36 felt stuck on first rep. Try 34 next session after warm-up"
+   },
+   {
+    "name": "Machine Dip (ROC-IT plate-loaded)",
+    "sets": [
+     {
+      "w": 70,
+      "r": 12
+     },
+     {
+      "w": 80,
+      "r": 8
+     },
+     {
+      "w": 80,
+      "r": 12
+     }
+    ],
+    "notes": "Big jump from 60. Good ROM. Next: start at 80"
+   },
+   {
+    "name": "Gym80 Low Row",
+    "sets": [
+     {
+      "w": 40,
+      "r": 12
+     },
+     {
+      "w": 40,
+      "r": 12
+     },
+     {
+      "w": 40,
+      "r": 12
+     }
+    ],
+    "notes": "All clean 12s. Next: 42.5-45"
+   },
+   {
+    "name": "Cable Face Pull",
+    "sets": [
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     }
+    ],
+    "notes": "Full ROM, elbows high. Next: 27.5-30"
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     }
+    ],
+    "notes": "Next: 32.5-35"
+   },
+   {
+    "name": "Nautilus Biceps Curl",
+    "sets": [
+     {
+      "w": 36,
+      "r": 12
+     },
+     {
+      "w": 36,
+      "r": 12
+     },
+     {
+      "w": 36,
+      "r": 12
+     }
+    ],
+    "notes": "Next: 38-41"
+   },
+   {
+    "name": "Overhead Cable Extension",
+    "sets": [
+     {
+      "w": 15,
+      "r": 12
+     },
+     {
+      "w": 15,
+      "r": 12
+     },
+     {
+      "w": 15,
+      "r": 12
+     }
+    ],
+    "notes": "Next: 17.5-20"
+   }
+  ],
+  "notes": "Strong session - every exercise hit 3x12. Across-the-board weight increases due next Upper B."
  }
 ]
