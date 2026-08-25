@@ -7049,5 +7049,110 @@
    }
   ],
   "notes": "Strong session - every exercise hit 3x12. Across-the-board weight increases due next Upper B."
+ },
+ {
+  "id": 1756141200000,
+  "day": 4,
+  "dayName": "Lower B (Hinge/Posterior)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-25T17:30:00.000Z",
+  "exercises": [
+   {
+    "name": "Romanian Deadlift",
+    "sets": [
+     {
+      "w": 50,
+      "r": 12
+     },
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 50,
+      "r": 8
+     }
+    ],
+    "notes": "Grip failed sets 2-3, not muscular failure. Straps ordered - expect reps to jump once grip removed as limiter"
+   },
+   {
+    "name": "Back Extension",
+    "sets": [
+     {
+      "w": 0,
+      "r": 12
+     },
+     {
+      "w": 0,
+      "r": 8
+     },
+     {
+      "w": 0,
+      "r": 8
+     }
+    ],
+    "notes": "Sets 2-3 used handle assistance (not pure bodyweight) - reps may be overstated. Aim for hands-light-touch next time"
+   },
+   {
+    "name": "Gym80 Leg Curl (not Hoist)",
+    "sets": [
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     }
+    ],
+    "notes": "To failure, matches last week - fatigue carried from RDL/grip work"
+   },
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 90,
+      "r": 10
+     },
+     {
+      "w": 90,
+      "r": 10
+     },
+     {
+      "w": 90,
+      "r": 10
+     }
+    ],
+    "notes": "Light day, near failure - good number given fatigue"
+   },
+   {
+    "name": "Abs",
+    "sets": [
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     }
+    ],
+    "notes": "Up from 25kg"
+   }
+  ],
+  "cardio": {
+   "type": "StairMaster",
+   "minutes": 15.15,
+   "kcal": 121,
+   "notes": "45 floors, sub for incline walk"
+  }
  }
 ]
