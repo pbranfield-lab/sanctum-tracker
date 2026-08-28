@@ -7154,5 +7154,139 @@
    "kcal": 121,
    "notes": "45 floors, sub for incline walk"
   }
+ },
+ {
+  "id": 1756224000000,
+  "day": 1,
+  "dayName": "Upper A (Horizontal)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-26T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Incline Chest Press",
+    "sets": [
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     }
+    ],
+    "notes": "40 failed to start. 35 ok, dropped to 30 for full ROM on sets 3-4, close to failure throughout"
+   },
+   {
+    "name": "Nautilus Leverage Row (new machine, plate-loaded per arm)",
+    "sets": [
+     {
+      "w": 40,
+      "r": 12
+     },
+     {
+      "w": 40,
+      "r": 12
+     },
+     {
+      "w": 40,
+      "r": 12
+     }
+    ],
+    "notes": "Sub for Gym80 55deg Row (machine busy). Felt comparable difficulty to Gym80 at 40kg"
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "w": 70,
+      "r": 12
+     },
+     {
+      "w": 70,
+      "r": 12
+     },
+     {
+      "w": 70,
+      "r": 12
+     }
+    ],
+    "notes": "Full ROM held 3x12 twice in a row now. Next: gradual 73-75kg, not straight to 79"
+   },
+   {
+    "name": "Gym80 Lateral Raise",
+    "sets": [
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     }
+    ],
+    "notes": "Jumped from 35 to 40. Hold 40, build reps toward 12"
+   },
+   {
+    "name": "V-Bar Pushdown",
+    "sets": [
+     {
+      "w": 27.5,
+      "r": 8
+     },
+     {
+      "w": 27.5,
+      "r": 8
+     },
+     {
+      "w": 27.5,
+      "r": 8
+     }
+    ],
+    "notes": "Poor ROM at 27.5. Next: drop back to 25, rebuild properly"
+   },
+   {
+    "name": "Gymleco Biceps Curl",
+    "sets": [
+     {
+      "w": 22.5,
+      "r": 12
+     },
+     {
+      "w": 20,
+      "r": 8
+     }
+    ],
+    "notes": "22.5 had poor ROM despite 12 reps. Dropped to 20, full ROM, failed at 8 - 20kg is the honest working weight"
+   },
+   {
+    "name": "Hoist Pec Fly",
+    "sets": [
+     {
+      "w": 70,
+      "r": 8
+     },
+     {
+      "w": 70,
+      "r": 8
+     },
+     {
+      "w": 70,
+      "r": 8
+     }
+    ]
+   }
+  ]
  }
 ]
