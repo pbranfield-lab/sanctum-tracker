@@ -7494,19 +7494,19 @@
     "name": "Nautilus Biceps Curl",
     "sets": [
      {
-      "w": 35,
+      "w": 36,
       "r": 8
      },
      {
-      "w": 35,
+      "w": 36,
       "r": 8
      },
      {
-      "w": 35,
+      "w": 36,
       "r": 8
      }
     ],
-    "notes": "Held near 36, full ROM tough throughout. Build to 3x12 before increasing"
+    "notes": "Held near previous 36, full ROM tough throughout. Build to 3x12 before increasing"
    },
    {
     "name": "Overhead Cable Extension",
