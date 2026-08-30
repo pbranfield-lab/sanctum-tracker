@@ -7288,5 +7288,109 @@
     ]
    }
   ]
+ },
+ {
+  "id": 1756396800000,
+  "day": 2,
+  "dayName": "Lower A (Quad)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-28T17:00:00.000Z",
+  "exercises": [
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 130,
+      "r": 8
+     },
+     {
+      "w": 130,
+      "r": 12
+     },
+     {
+      "w": 130,
+      "r": 12
+     }
+    ],
+    "notes": "Big jump from 110. Next: push to 140+"
+   },
+   {
+    "name": "Single-Leg Press 45 (plate)",
+    "sets": [
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     }
+    ],
+    "notes": "Holding steady. Next: push toward 35, left still leads"
+   },
+   {
+    "name": "Gym80 Leg Curl (not Hoist)",
+    "sets": [
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     }
+    ],
+    "notes": "Dropped from 40 (too tough last time). Felt in lower back - check hip/pelvis position on pad, monitor given mid-back history"
+   },
+   {
+    "name": "Gym80 Booty Booster",
+    "sets": [
+     {
+      "w": 85,
+      "r": 12
+     },
+     {
+      "w": 85,
+      "r": 12
+     },
+     {
+      "w": 85,
+      "r": 12
+     }
+    ],
+    "notes": "Clean again. Next: 90-95"
+   },
+   {
+    "name": "Standing Calf Raise (RPL-5405 plate-loaded)",
+    "sets": [
+     {
+      "w": 40,
+      "r": 15
+     },
+     {
+      "w": 40,
+      "r": 15
+     },
+     {
+      "w": 40,
+      "r": 15
+     }
+    ],
+    "notes": "Matches last time. Next: try 50"
+   }
+  ],
+  "cardio": {
+   "type": "Incline walk + StairMaster",
+   "minutes": 15,
+   "notes": "10 min incline walk + 5 min StairMaster"
+  }
  }
 ]
