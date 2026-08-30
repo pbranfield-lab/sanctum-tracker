@@ -7392,5 +7392,140 @@
    "minutes": 15,
    "notes": "10 min incline walk + 5 min StairMaster"
   }
+ },
+ {
+  "id": 1756548600000,
+  "day": 3,
+  "dayName": "Upper B (Vertical/Shoulder)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-08-30T10:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Nautilus Shoulder Press",
+    "sets": [
+     {
+      "w": 36,
+      "r": 8
+     },
+     {
+      "w": 36,
+      "r": 8
+     },
+     {
+      "w": 36,
+      "r": 12
+     }
+    ],
+    "notes": "Switched to neutral (facing-in) grip - kinder on shoulder. Big jump from 32. Keep grip consistent going forward"
+   },
+   {
+    "name": "Machine Dip (ROC-IT plate-loaded)",
+    "sets": [
+     {
+      "w": 80,
+      "r": 12
+     },
+     {
+      "w": 80,
+      "r": 12
+     },
+     {
+      "w": 80,
+      "r": 12
+     }
+    ],
+    "notes": "Clean 3x12. Next: try 90"
+   },
+   {
+    "name": "Gym80 Low Row",
+    "sets": [
+     {
+      "w": 42.5,
+      "r": 10
+     },
+     {
+      "w": 42.5,
+      "r": 9.5
+     },
+     {
+      "w": 42.5,
+      "r": 9.5
+     }
+    ],
+    "notes": "To failure all sets (9.5 = 9 full + partial). Hold 42.5, build to 3x12"
+   },
+   {
+    "name": "Cable Face Pull",
+    "sets": [
+     {
+      "w": 27.5,
+      "r": 12
+     },
+     {
+      "w": 27.5,
+      "r": 10
+     },
+     {
+      "w": 27.5,
+      "r": 10
+     }
+    ],
+    "notes": "Full ROM maintained at higher weight"
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 35,
+      "r": 12
+     }
+    ],
+    "notes": "Clean jump from 30. Next: 37.5-40"
+   },
+   {
+    "name": "Nautilus Biceps Curl",
+    "sets": [
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     }
+    ],
+    "notes": "Held near 36, full ROM tough throughout. Build to 3x12 before increasing"
+   },
+   {
+    "name": "Overhead Cable Extension",
+    "sets": [
+     {
+      "w": 20,
+      "r": 12
+     },
+     {
+      "w": 20,
+      "r": 12
+     },
+     {
+      "w": 20,
+      "r": 12
+     }
+    ],
+    "notes": "New Jordan handle attachment, easier than rope. Up from 15kg. Next: 22.5-25"
+   }
+  ]
  }
 ]
