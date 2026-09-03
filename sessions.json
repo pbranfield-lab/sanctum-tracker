@@ -7628,7 +7628,7 @@
   ],
   "cardio": {
    "type": "StairMaster",
-   "notes": "In progress at end of session, final time/kcal not captured"
+   "minutes": 15
   }
  },
  {
