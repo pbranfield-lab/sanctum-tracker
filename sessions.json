@@ -7527,5 +7527,142 @@
     "notes": "New Jordan handle attachment, easier than rope. Up from 15kg. Next: 22.5-25"
    }
   ]
+ },
+ {
+  "id": 1788458400000,
+  "day": 1,
+  "dayName": "Upper A",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-09-03T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Incline Chest Press",
+    "sets": [
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 35,
+      "r": 12
+     },
+     {
+      "w": 37.5,
+      "r": 12
+     }
+    ]
+   },
+   {
+    "name": "Hoist Pec Fly",
+    "sets": [
+     {
+      "w": 70,
+      "r": 8
+     },
+     {
+      "w": 70,
+      "r": 8
+     },
+     {
+      "w": 61,
+      "r": 12
+     }
+    ]
+   },
+   {
+    "name": "Gymleco Pure Kraft Low Row (sub for Nautilus Row)",
+    "sets": [
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 50,
+      "r": 8
+     }
+    ]
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "w": 79,
+      "r": 8
+     },
+     {
+      "w": 79,
+      "r": 8
+     },
+     {
+      "w": 79,
+      "r": 8
+     }
+    ],
+    "notes": "Back to 79 after building up via 70kg reps"
+   },
+   {
+    "name": "Gym80 Lateral Raise",
+    "sets": [
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     }
+    ]
+   },
+   {
+    "name": "Gymleco Biceps Curl",
+    "sets": [
+     {
+      "w": 22.5,
+      "r": 8
+     },
+     {
+      "w": 22.5,
+      "r": 8
+     },
+     {
+      "w": 22.5,
+      "r": 8
+     }
+    ]
+   },
+   {
+    "name": "V-Bar Pushdown",
+    "sets": [
+     {
+      "w": 27.5,
+      "r": 8
+     },
+     {
+      "w": 25,
+      "r": 8
+     },
+     {
+      "w": 25,
+      "r": 8
+     },
+     {
+      "w": 25,
+      "r": 9
+     }
+    ]
+   }
+  ]
  }
 ]
