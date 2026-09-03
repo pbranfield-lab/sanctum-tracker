@@ -7529,6 +7529,109 @@
   ]
  },
  {
+  "id": 1788372000000,
+  "day": 4,
+  "dayName": "Lower B (Hinge/Posterior)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-09-02T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Romanian Deadlift",
+    "sets": [
+     {
+      "w": 50,
+      "r": 12
+     },
+     {
+      "w": 50,
+      "r": 12
+     },
+     {
+      "w": 50,
+      "r": 12
+     }
+    ],
+    "notes": "First use of wrist straps - grip no longer limiter, clean 3x12. Next: push to 55-60"
+   },
+   {
+    "name": "Back Extension",
+    "sets": [
+     {
+      "w": 0,
+      "r": 8
+     },
+     {
+      "w": 0,
+      "r": 8
+     },
+     {
+      "w": 0,
+      "r": 8
+     }
+    ],
+    "notes": "Honest bodyweight count, no handle assistance this time. Note: machine's empty handles/arm add some unweighed resistance beyond true bodyweight"
+   },
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 110,
+      "r": 12
+     },
+     {
+      "w": 110,
+      "r": 12
+     },
+     {
+      "w": 110,
+      "r": 12
+     }
+    ],
+    "notes": "Heavier than usual light-day target but no failure reported"
+   },
+   {
+    "name": "Gym80 Leg Curl (not Hoist)",
+    "sets": [
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     }
+    ],
+    "notes": "To genuine failure. Mild lower back twinge again - same pattern as prior session. Worth having a trainer check hip/pad position on this machine"
+   },
+   {
+    "name": "Abs",
+    "sets": [
+     {
+      "w": 45,
+      "r": 8
+     },
+     {
+      "w": 45,
+      "r": 12
+     },
+     {
+      "w": 45,
+      "r": 12
+     }
+    ],
+    "notes": "Up from 35kg"
+   }
+  ],
+  "cardio": {
+   "type": "StairMaster",
+   "notes": "In progress at end of session, final time/kcal not captured"
+  }
+ },
+ {
   "id": 1788458400000,
   "day": 1,
   "dayName": "Upper A",
