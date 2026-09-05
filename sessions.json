@@ -7767,5 +7767,108 @@
     ]
    }
   ]
+ },
+ {
+  "id": 1788463800000,
+  "day": 2,
+  "dayName": "Lower A (Quad)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-09-03T19:30:00.000Z",
+  "exercises": [
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 130,
+      "r": 8
+     },
+     {
+      "w": 130,
+      "r": 8
+     },
+     {
+      "w": 130,
+      "r": 12
+     }
+    ],
+    "notes": "Held steady rather than increasing. Next: push to 140"
+   },
+   {
+    "name": "Single-Leg Press 45 (plate)",
+    "sets": [
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     }
+    ],
+    "notes": "To failure, ROM slightly off - tighten range before adding weight"
+   },
+   {
+    "name": "Gym80 Leg Curl (not Hoist)",
+    "sets": [
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 10
+     }
+    ],
+    "notes": "Dropped from 35 to 30 - better ROM. Lower back twinge persists (3rd session running on this machine despite weight drops) - GET SANCTUM STAFF TO CHECK SETUP/HIP POSITION before next session"
+   },
+   {
+    "name": "Gym80 Booty Booster",
+    "sets": [
+     {
+      "w": 95,
+      "r": 8
+     },
+     {
+      "w": 95,
+      "r": 8
+     },
+     {
+      "w": 95,
+      "r": 8
+     }
+    ],
+    "notes": "New weight, near failure. Next: build to 3x12 before increasing further"
+   },
+   {
+    "name": "Standing Calf Raise (RPL-5405 plate-loaded)",
+    "sets": [
+     {
+      "w": 50,
+      "r": 15
+     },
+     {
+      "w": 50,
+      "r": 15
+     },
+     {
+      "w": 50,
+      "r": 15
+     }
+    ],
+    "notes": "Clean jump held. Next: try 60"
+   }
+  ],
+  "cardio": {
+   "type": "Treadmill incline walk",
+   "minutes": 15
+  }
  }
 ]
