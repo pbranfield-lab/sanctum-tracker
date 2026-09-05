@@ -6683,9 +6683,8 @@
   ],
   "cardio": {
    "type": "Treadmill incline walk",
-   "minutes": 4.3,
-   "kcal": 74,
-   "notes": "Shorter than usual 15-20min target"
+   "minutes": 15,
+   "kcal": 74
   }
  },
  {
@@ -6910,7 +6909,7 @@
   ],
   "cardio": {
    "type": "Treadmill incline walk",
-   "minutes": 4.3,
+   "minutes": 15,
    "kcal": 90
   }
  },
