@@ -8005,5 +8005,107 @@
    }
   ],
   "notes": "Best session of programme - every lift up on last time."
+ },
+ {
+  "id": 1789059600000,
+  "day": 4,
+  "dayName": "Lower B (Hinge/Posterior)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-09-10T17:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Romanian Deadlift",
+    "sets": [
+     {
+      "w": 60,
+      "r": 12
+     },
+     {
+      "w": 60,
+      "r": 12
+     },
+     {
+      "w": 60,
+      "r": 12
+     }
+    ],
+    "notes": "Big jump from 50, all clean with straps. Next: 65"
+   },
+   {
+    "name": "Gym80 Leg Curl (not Hoist)",
+    "sets": [
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     }
+    ],
+    "notes": "Full reps, no back issue this session - previous twinge seems to have settled. Monitor next time to confirm"
+   },
+   {
+    "name": "Back Extension",
+    "sets": [
+     {
+      "w": 0,
+      "r": 8
+     },
+     {
+      "w": 0,
+      "r": 8
+     },
+     {
+      "w": 0,
+      "r": 8
+     }
+    ],
+    "notes": "Holding at honest bodyweight count"
+   },
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 110,
+      "r": 12
+     },
+     {
+      "w": 110,
+      "r": 12
+     },
+     {
+      "w": 110,
+      "r": 12
+     }
+    ]
+   },
+   {
+    "name": "Abs",
+    "sets": [
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 50,
+      "r": 8
+     }
+    ],
+    "notes": "Up from 45kg"
+   }
+  ],
+  "cardio": {
+   "type": "Treadmill incline walk",
+   "minutes": 15
+  }
  }
 ]
