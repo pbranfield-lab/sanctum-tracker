@@ -195,6 +195,52 @@
     "protein": "1.6-2.0 g/kg bodyweight daily - priority given appetite suppression"
   },
   "changelog": [
-    "2026-09-09: Upper A - swapped Gymleco Biceps Curl for DB Hammer Curl"
-  ]
+    "2026-09-09: Upper A - swapped Gymleco Biceps Curl for DB Hammer Curl",
+    "2026-09-13: Added 4-week unstick block for stalled pressing/pulling lifts + nutrition focus"
+  ],
+  "deloadBlock": {
+    "name": "Pressing/Pulling unstick block",
+    "startDate": "2026-09-14",
+    "endDate": "2026-10-11",
+    "rationale": "Incline Chest, Pec Fly, Machine Dip and Lat Pulldown all parked for 3+ sessions. Drop ~10% and rebuild on a schedule rather than grinding the same weight weekly. Same approach that unstuck the RDL.",
+    "schedule": {
+      "Incline Chest Press": {
+        "wk1": "32.5 x12x4",
+        "wk2": "35 x12x4",
+        "wk3": "37.5 x10",
+        "wk4": "37.5 x12"
+      },
+      "Hoist Pec Fly": {
+        "wk1": "61 x12x3",
+        "wk2": "65 x12",
+        "wk3": "70 x10",
+        "wk4": "70 x12"
+      },
+      "Machine Dip": {
+        "wk1": "80 x12x3",
+        "wk2": "85 x10",
+        "wk3": "90 x10",
+        "wk4": "90 x12"
+      },
+      "Lat Pulldown": {
+        "wk1": "70 x12x3",
+        "wk2": "73 x12",
+        "wk3": "76 x10",
+        "wk4": "79 x12"
+      }
+    },
+    "allOtherLifts": "Continue normal double progression (8->12 then +5%). Targets: Leg Press 140, RDL 65, Booty Booster 105, Shoulder Press 43.",
+    "holds": "Gym80 Leg Curl stays at 30kg until fully clean of lower-back sensation for 2-3 sessions."
+  },
+  "nutritionFocus": {
+    "startDate": "2026-09-14",
+    "bodyweightAtStart": "97kg",
+    "calorieTarget": "2200-2300 kcal/day",
+    "proteinTarget": "160-180 g/day",
+    "actions": [
+      "7 consecutive days of food logging (photos fine)",
+      "Weekly weigh-in, same day and time (Sunday morning)"
+    ],
+    "note": "Training is progressing well; fat loss is not yet measurable - no weight trend in log. This block's priority."
+  }
 }
