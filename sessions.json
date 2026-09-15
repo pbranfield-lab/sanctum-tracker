@@ -8107,5 +8107,142 @@
    "type": "Treadmill incline walk",
    "minutes": 15
   }
+ },
+ {
+  "id": 1789216200000,
+  "day": 1,
+  "dayName": "Upper A (Horizontal)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-09-12T12:30:00.000Z",
+  "exercises": [
+   {
+    "name": "Incline Chest Press",
+    "sets": [
+     {
+      "w": 36,
+      "r": 12
+     },
+     {
+      "w": 36,
+      "r": 12
+     },
+     {
+      "w": 36,
+      "r": 12
+     },
+     {
+      "w": 36,
+      "r": 12
+     }
+    ],
+    "notes": "Couldn't start 37.5. Small step up from 35. Retry 37.5 fresh in a couple sessions"
+   },
+   {
+    "name": "Gym80 55 Degree Row",
+    "sets": [
+     {
+      "w": 40,
+      "r": 12
+     },
+     {
+      "w": 40,
+      "r": 12
+     },
+     {
+      "w": 40,
+      "r": 12
+     }
+    ],
+    "notes": "Clean 3x12 after 2 sessions on sub machines. Next: 42.5-45"
+   },
+   {
+    "name": "Lat Pulldown",
+    "sets": [
+     {
+      "w": 79,
+      "r": 10
+     },
+     {
+      "w": 79,
+      "r": 8
+     },
+     {
+      "w": 79,
+      "r": 8
+     }
+    ],
+    "notes": "Near failure. Progress from flat 8x3 last time at 79"
+   },
+   {
+    "name": "Gym80 Standing Lateral Raise (3099, new - was seated)",
+    "sets": [
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     },
+     {
+      "w": 35,
+      "r": 8
+     }
+    ],
+    "notes": "Switched from seated to standing version. New baseline, build to 12s"
+   },
+   {
+    "name": "V-Bar Pushdown",
+    "sets": [
+     {
+      "w": 25,
+      "r": 8
+     },
+     {
+      "w": 25,
+      "r": 8
+     },
+     {
+      "w": 25,
+      "r": 8
+     }
+    ]
+   },
+   {
+    "name": "Cable Hammer Curl (replaces Gymleco Biceps Curl)",
+    "sets": [
+     {
+      "w": 22.5,
+      "r": 8
+     },
+     {
+      "w": 22.5,
+      "r": 8
+     },
+     {
+      "w": 22.5,
+      "r": 8
+     }
+    ],
+    "notes": "First session on new movement (swapped in for neutral grip/brachialis work). Close to failure"
+   },
+   {
+    "name": "Hoist Pec Fly",
+    "sets": [
+     {
+      "w": 70,
+      "r": 8
+     },
+     {
+      "w": 70,
+      "r": 8
+     },
+     {
+      "w": 70,
+      "r": 8
+     }
+    ]
+   }
+  ]
  }
 ]
