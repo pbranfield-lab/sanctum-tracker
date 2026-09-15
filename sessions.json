@@ -8244,5 +8244,105 @@
     ]
    }
   ]
+ },
+ {
+  "id": 1789236000000,
+  "day": 2,
+  "dayName": "Lower A (Quad)",
+  "programme": "Upper/Lower 4-5 Day",
+  "date": "2026-09-12T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "45 Degree Leg Press (plate)",
+    "sets": [
+     {
+      "w": 130,
+      "r": 12
+     },
+     {
+      "w": 130,
+      "r": 12
+     },
+     {
+      "w": 130,
+      "r": 12
+     }
+    ],
+    "notes": "All clean. Next: 140"
+   },
+   {
+    "name": "Single-Leg Press 45 (plate)",
+    "sets": [
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     },
+     {
+      "w": 30,
+      "r": 8
+     }
+    ],
+    "notes": "Left still weaker - continue left-leads approach"
+   },
+   {
+    "name": "Gym80 Leg Curl (not Hoist)",
+    "sets": [
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     },
+     {
+      "w": 30,
+      "r": 12
+     }
+    ],
+    "notes": "Close to failure. 2nd clean session in a row with no back issue. Next: 32.5-35"
+   },
+   {
+    "name": "Gym80 Booty Booster",
+    "sets": [
+     {
+      "w": 100,
+      "r": 12
+     },
+     {
+      "w": 100,
+      "r": 12
+     },
+     {
+      "w": 100,
+      "r": 12
+     }
+    ],
+    "notes": "Jumped from 95, hit clean 3x12. Next: 105-110"
+   },
+   {
+    "name": "Standing Calf Raise (RPL-5405 plate-loaded)",
+    "sets": [
+     {
+      "w": 60,
+      "r": 15
+     },
+     {
+      "w": 60,
+      "r": 15
+     },
+     {
+      "w": 60,
+      "r": 15
+     }
+    ],
+    "notes": "Next: try 70"
+   }
+  ],
+  "notes": "Cardio skipped this session - ran out of time."
  }
 ]
