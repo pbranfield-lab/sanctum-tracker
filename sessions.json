@@ -8344,5 +8344,141 @@
    }
   ],
   "notes": "Cardio skipped this session - ran out of time."
+ },
+ {
+  "id": 1789581600000,
+  "day": 3,
+  "dayName": "Upper B (Vertical/Shoulder)",
+  "programme": "Upper/Lower 4-5 Day",
+  "block": "Unstick block week 1",
+  "date": "2026-09-16T18:00:00.000Z",
+  "exercises": [
+   {
+    "name": "Nautilus Shoulder Press",
+    "sets": [
+     {
+      "w": 46,
+      "r": 8
+     },
+     {
+      "w": 46,
+      "r": 12
+     },
+     {
+      "w": 46,
+      "r": 12
+     }
+    ],
+    "notes": "Neutral grip. Big jump from 41. 32->46 in 5 weeks"
+   },
+   {
+    "name": "Machine Dip (ROC-IT plate-loaded)",
+    "sets": [
+     {
+      "w": 80,
+      "r": 12
+     },
+     {
+      "w": 80,
+      "r": 12
+     },
+     {
+      "w": 80,
+      "r": 12
+     }
+    ],
+    "notes": "Unstick block wk1 deload - clean as intended. Wk2: 85x10"
+   },
+   {
+    "name": "Nautilus Leverage Row (plate-loaded per arm)",
+    "sets": [
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 50,
+      "r": 8
+     },
+     {
+      "w": 50,
+      "r": 8
+     }
+    ],
+    "notes": "Used instead of Gym80 Low Row. ROM good first 6 reps then degraded - drop to 45 next time, full ROM before increasing"
+   },
+   {
+    "name": "Cable Face Pull",
+    "sets": [
+     {
+      "w": 33.5,
+      "r": 8
+     },
+     {
+      "w": 33.5,
+      "r": 8
+     },
+     {
+      "w": 33.5,
+      "r": 12
+     }
+    ],
+    "notes": "Jump from 28.5"
+   },
+   {
+    "name": "Reverse Pec Deck",
+    "sets": [
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     },
+     {
+      "w": 40,
+      "r": 8
+     }
+    ],
+    "notes": "Same weight as last time but slower eccentric, close to failure by rep 7 - better quality reps"
+   },
+   {
+    "name": "Overhead Cable Extension",
+    "sets": [
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     },
+     {
+      "w": 25,
+      "r": 12
+     }
+    ],
+    "notes": "Jordan handle. Clean jump from 22.5. Next: 27.5"
+   },
+   {
+    "name": "Nautilus Biceps Curl",
+    "sets": [
+     {
+      "w": 36,
+      "r": 12
+     },
+     {
+      "w": 36,
+      "r": 12
+     },
+     {
+      "w": 36,
+      "r": 12
+     }
+    ],
+    "notes": "41 wouldn't move to start position. Hold 36, try 38 next rather than 41"
+   }
+  ]
  }
 ]
